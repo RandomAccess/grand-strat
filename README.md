@@ -1,4 +1,4 @@
 grand-strat
 ===========
 
-Placeholder
+Strategy in space! Webapp for the player/GM interface
